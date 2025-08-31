@@ -78,3 +78,22 @@ mvn clean test -DsuiteXmlFile=docker-grid.xml
 - TestNG Reports → `test-output/`
 <img width="944" height="419" alt="Screenshot_5" src="https://github.com/user-attachments/assets/b220ca28-b07b-4b03-99fb-8d30987a0243" />
 
+## CI/CD with Jenkins
+1. Install Jenkins & configure Maven + Git in **Global Tool Configuration**
+2. Create a new Jenkins Job → Pull this repo
+3. Add **Build Step**:
+```bash
+mvn clean test -DsuiteXmlFile=master.xml
+```
+4. View execution & reports in Jenkins
+<img width="1353" height="595" alt="JenkinsConfiguration" src="https://github.com/user-attachments/assets/d062c266-8762-4af7-afee-d1599a2efb4b" />
+
+## Test Cases Implemented
+* **TestAccountRegistrationPage_TC001** → Validate account registration
+* **TestAccountLoginPage_TC002** → Validate login with valid credentials
+* **DDTestAccountLoginPage_TC003** → Validate login with multiple data sets (Excel-driven)
+## Future Enhancements
+* Integrate with **Allure Reports**
+* Add support for **API Testing**
+* Enable **Cloud Execution** (BrowserStack/SauceLabs)
+

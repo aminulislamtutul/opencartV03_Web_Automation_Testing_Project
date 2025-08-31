@@ -41,6 +41,8 @@ The framework supports:
 ├── docker-compose.yaml            → Docker Grid setup
 ├── docker-grid.xml                → Grid execution config
 ├── pom.xml                        → Maven dependencies & plugins
+├── crossbrowsertesting.xml        → Cross Browser Testing TestNG suite
+├── grouping.xml                   → Grouping TestNG suite                       
 ├── master.xml                     → Master TestNG suite
 ├── run.bat                        → Batch file for execution
 └── README.md                      → Project documentation

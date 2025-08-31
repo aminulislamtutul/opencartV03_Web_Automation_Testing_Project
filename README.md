@@ -95,7 +95,7 @@ mvn clean test -DsuiteXmlFile=master.xml
 * **TestAccountLoginPage_TC002** → Validate login with valid credentials
 * **TestAccountLogoutPage_TC003** → Validate logout
 * **TestSearchProduct_TC004** → Validate Search Functionality
-* **TestAddToCartPage_TC006** → Validate Add to Cart Page
+* **TestAddToCartPage_TC005** → Validate Add to Cart Page
 * **DDTestAccountLoginPage_TC006** → Validate login with multiple data sets (Excel-driven)
 ## Future Enhancements
 * Integrate with **Allure Reports**

@@ -3,3 +3,11 @@
 This project is an automation framework built using Java, Selenium, TestNG, and integrated with Jenkins & Docker.
 
 <img width="843" height="518" alt="Hybrid Automation framework" src="https://github.com/user-attachments/assets/f999acb1-d588-4664-aaf0-59453753f51e" />
+## Project Dependencies
+- [**Java JDK 17**](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html) – Programming language
+- [**Selenium 4**](https://www.selenium.dev/) – Web automation framework
+- [**Maven**](https://maven.apache.org/) – Build and dependency management tool
+- [**TestNG**](https://testng.org/) – Testing framework
+- [**Jenkins**](https://www.jenkins.io/) – Continuous Integration / Continuous Delivery (CI/CD)  
+- [**Docker**](https://www.docker.com/) – Containerization for test execution
+- [**Git**](https://git-scm.com/) – Version control system 

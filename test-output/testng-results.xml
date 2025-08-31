@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-08-31T16:36:44 BDT" name="Suite" finished-at="2025-08-31T16:39:08 BDT" duration-ms="144584">
+    <groups>
+      <group name="Master">
+        <method signature="TestAccountLoginPage_TC002.verifyLogin()[pri:0, instance:testCases.TestAccountLoginPage_TC002@7d9f158f]" name="verifyLogin" class="testCases.TestAccountLoginPage_TC002"/>
+        <method signature="TestAccountLogoutPage_TC003.verifyLogout()[pri:0, instance:testCases.TestAccountLogoutPage_TC003@45efd90f]" name="verifyLogout" class="testCases.TestAccountLogoutPage_TC003"/>
+        <method signature="TestAccountRegistrationPage_TC001.verifyAccountRegistration()[pri:0, instance:testCases.TestAccountRegistrationPage_TC001@7f2cfe3f]" name="verifyAccountRegistration" class="testCases.TestAccountRegistrationPage_TC001"/>
+        <method signature="TestAddToCartPage_TC005.verifyAddToCart()[pri:0, instance:testCases.TestAddToCartPage_TC005@61710c6]" name="verifyAddToCart" class="testCases.TestAddToCartPage_TC005"/>
+        <method signature="TestSearchProduct_TC004.verifySearch()[pri:0, instance:testCases.TestSearchProduct_TC004@4b8729ff]" name="verifySearch" class="testCases.TestSearchProduct_TC004"/>
+      </group> <!-- Master -->
+      <group name="datadriven">
+        <method signature="DDTestAccountLoginPage_TC006.verifyDDTestLoginPage(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.DDTestAccountLoginPage_TC006@3214ee6]" name="verifyDDTestLoginPage" class="testCases.DDTestAccountLoginPage_TC006"/>
+      </group> <!-- datadriven -->
+      <group name="Regression">
+        <method signature="TestAccountLoginPage_TC002.verifyLogin()[pri:0, instance:testCases.TestAccountLoginPage_TC002@7d9f158f]" name="verifyLogin" class="testCases.TestAccountLoginPage_TC002"/>
+        <method signature="TestAccountLogoutPage_TC003.verifyLogout()[pri:0, instance:testCases.TestAccountLogoutPage_TC003@45efd90f]" name="verifyLogout" class="testCases.TestAccountLogoutPage_TC003"/>
+        <method signature="TestAccountRegistrationPage_TC001.verifyAccountRegistration()[pri:0, instance:testCases.TestAccountRegistrationPage_TC001@7f2cfe3f]" name="verifyAccountRegistration" class="testCases.TestAccountRegistrationPage_TC001"/>
+        <method signature="TestAddToCartPage_TC005.verifyAddToCart()[pri:0, instance:testCases.TestAddToCartPage_TC005@61710c6]" name="verifyAddToCart" class="testCases.TestAddToCartPage_TC005"/>
+        <method signature="TestSearchProduct_TC004.verifySearch()[pri:0, instance:testCases.TestSearchProduct_TC004@4b8729ff]" name="verifySearch" class="testCases.TestSearchProduct_TC004"/>
+      </group> <!-- Regression -->
+    </groups>
+    <test started-at="2025-08-31T16:36:44 BDT" name="Test" finished-at="2025-08-31T16:39:08 BDT" duration-ms="144584">
+      <class name="testCases.TestAccountRegistrationPage_TC001">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:testCases.TestAccountRegistrationPage_TC001@7f2cfe3f]" started-at="2025-08-31T16:36:44 BDT" name="setUp" finished-at="2025-08-31T16:36:49 BDT" duration-ms="4384" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyAccountRegistration()[pri:0, instance:testCases.TestAccountRegistrationPage_TC001@7f2cfe3f]" started-at="2025-08-31T16:36:49 BDT" name="verifyAccountRegistration" finished-at="2025-08-31T16:36:53 BDT" duration-ms="4589" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAccountRegistration -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TestAccountRegistrationPage_TC001@7f2cfe3f]" started-at="2025-08-31T16:36:54 BDT" name="tearDown" finished-at="2025-08-31T16:36:54 BDT" duration-ms="697" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TestAccountRegistrationPage_TC001 -->
+      <class name="testCases.TestAddToCartPage_TC005">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:testCases.TestAddToCartPage_TC005@61710c6]" started-at="2025-08-31T16:37:12 BDT" name="setUp" finished-at="2025-08-31T16:37:15 BDT" duration-ms="2443" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyAddToCart()[pri:0, instance:testCases.TestAddToCartPage_TC005@61710c6]" started-at="2025-08-31T16:37:15 BDT" name="verifyAddToCart" finished-at="2025-08-31T16:37:17 BDT" duration-ms="2319" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddToCart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TestAddToCartPage_TC005@61710c6]" started-at="2025-08-31T16:37:17 BDT" name="tearDown" finished-at="2025-08-31T16:37:18 BDT" duration-ms="564" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TestAddToCartPage_TC005 -->
+      <class name="testCases.TestAccountLoginPage_TC002">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:testCases.TestAccountLoginPage_TC002@7d9f158f]" started-at="2025-08-31T16:36:54 BDT" name="setUp" finished-at="2025-08-31T16:36:57 BDT" duration-ms="2770" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLogin()[pri:0, instance:testCases.TestAccountLoginPage_TC002@7d9f158f]" started-at="2025-08-31T16:36:57 BDT" name="verifyLogin" finished-at="2025-08-31T16:37:00 BDT" duration-ms="3306" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TestAccountLoginPage_TC002@7d9f158f]" started-at="2025-08-31T16:37:00 BDT" name="tearDown" finished-at="2025-08-31T16:37:01 BDT" duration-ms="527" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TestAccountLoginPage_TC002 -->
+      <class name="testCases.DDTestAccountLoginPage_TC006">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:testCases.DDTestAccountLoginPage_TC006@3214ee6]" started-at="2025-08-31T16:37:18 BDT" name="setUp" finished-at="2025-08-31T16:37:20 BDT" duration-ms="2436" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyDDTestLoginPage(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.DDTestAccountLoginPage_TC006@3214ee6]" started-at="2025-08-31T16:37:23 BDT" name="verifyDDTestLoginPage" data-provider="LoginData" finished-at="2025-08-31T16:37:26 BDT" duration-ms="3410" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kapesev510@namestal.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[demo1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDDTestLoginPage -->
+        <test-method signature="verifyDDTestLoginPage(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.DDTestAccountLoginPage_TC006@3214ee6]" started-at="2025-08-31T16:37:26 BDT" name="verifyDDTestLoginPage" data-provider="LoginData" finished-at="2025-08-31T16:37:29 BDT" duration-ms="2760" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[aminulislam.mywork@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDDTestLoginPage -->
+        <test-method signature="verifyDDTestLoginPage(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.DDTestAccountLoginPage_TC006@3214ee6]" started-at="2025-08-31T16:37:29 BDT" name="verifyDDTestLoginPage" data-provider="LoginData" finished-at="2025-08-31T16:38:01 BDT" duration-ms="32254" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rifat@yahoo.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Lakshmi]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDDTestLoginPage -->
+        <test-method signature="verifyDDTestLoginPage(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.DDTestAccountLoginPage_TC006@3214ee6]" started-at="2025-08-31T16:38:01 BDT" name="verifyDDTestLoginPage" data-provider="LoginData" finished-at="2025-08-31T16:38:33 BDT" duration-ms="31716" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[shakib@yahoo.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[xyz]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDDTestLoginPage -->
+        <test-method signature="verifyDDTestLoginPage(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.DDTestAccountLoginPage_TC006@3214ee6]" started-at="2025-08-31T16:38:33 BDT" name="verifyDDTestLoginPage" data-provider="LoginData" finished-at="2025-08-31T16:38:36 BDT" duration-ms="2681" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abc123@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test@123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDDTestLoginPage -->
+        <test-method signature="verifyDDTestLoginPage(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.DDTestAccountLoginPage_TC006@3214ee6]" started-at="2025-08-31T16:38:36 BDT" name="verifyDDTestLoginPage" data-provider="LoginData" finished-at="2025-08-31T16:39:08 BDT" duration-ms="32254" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test@123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDDTestLoginPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.DDTestAccountLoginPage_TC006@3214ee6]" started-at="2025-08-31T16:39:08 BDT" name="tearDown" finished-at="2025-08-31T16:39:08 BDT" duration-ms="552" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.DDTestAccountLoginPage_TC006 -->
+      <class name="testCases.TestSearchProduct_TC004">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:testCases.TestSearchProduct_TC004@4b8729ff]" started-at="2025-08-31T16:37:08 BDT" name="setUp" finished-at="2025-08-31T16:37:11 BDT" duration-ms="2443" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifySearch()[pri:0, instance:testCases.TestSearchProduct_TC004@4b8729ff]" started-at="2025-08-31T16:37:11 BDT" name="verifySearch" finished-at="2025-08-31T16:37:12 BDT" duration-ms="1076" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearch -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TestSearchProduct_TC004@4b8729ff]" started-at="2025-08-31T16:37:12 BDT" name="tearDown" finished-at="2025-08-31T16:37:12 BDT" duration-ms="549" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TestSearchProduct_TC004 -->
+      <class name="testCases.TestAccountLogoutPage_TC003">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:testCases.TestAccountLogoutPage_TC003@45efd90f]" started-at="2025-08-31T16:37:01 BDT" name="setUp" finished-at="2025-08-31T16:37:03 BDT" duration-ms="2473" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLogout()[pri:0, instance:testCases.TestAccountLogoutPage_TC003@45efd90f]" started-at="2025-08-31T16:37:03 BDT" name="verifyLogout" finished-at="2025-08-31T16:37:08 BDT" duration-ms="4246" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogout -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TestAccountLogoutPage_TC003@45efd90f]" started-at="2025-08-31T16:37:08 BDT" name="tearDown" finished-at="2025-08-31T16:37:08 BDT" duration-ms="488" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TestAccountLogoutPage_TC003 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

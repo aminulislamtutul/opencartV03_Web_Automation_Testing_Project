@@ -76,3 +76,5 @@ mvn clean test -DsuiteXmlFile=docker-grid.xml
 - Screenshots on Failure → `screenshots/`
 - Log file → `logs/automation.log`
 - TestNG Reports → `test-output/`
+<img width="944" height="419" alt="Screenshot_5" src="https://github.com/user-attachments/assets/b220ca28-b07b-4b03-99fb-8d30987a0243" />
+

@@ -80,6 +80,9 @@ mvn clean test -DsuiteXmlFile=docker-grid.xml
 - TestNG Reports → `test-output/`
 <img width="944" height="419" alt="Screenshot_5" src="https://github.com/user-attachments/assets/b220ca28-b07b-4b03-99fb-8d30987a0243" />
 
+## Allure Reports
+- Allure Reports → `allure-report`
+
 ## CI/CD with Jenkins
 1. Install Jenkins & configure Maven + Git in **Global Tool Configuration**
 2. Create a new Jenkins Job → Pull this repo

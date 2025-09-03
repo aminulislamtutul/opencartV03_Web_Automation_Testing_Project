@@ -34,6 +34,7 @@ The framework supports:
 │   ├── config.properties/         → URL/PWD/Environment
 │   └── log4j2.xml/                → Log4j execution logs
 ├── TestData/                      → Test data files (Excel)
+├── allure-report/                 → Allure TestNG Reports
 ├── reports/                       → HTML Extent Reports
 ├── screenshots/                   → Captured screenshots on failures
 ├── logs/                          → Log4j execution logs

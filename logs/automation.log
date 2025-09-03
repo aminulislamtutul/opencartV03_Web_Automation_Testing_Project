@@ -1,274 +1,53 @@
-2025-08-31 00:30:02 INFO  TestAccountLoginPage_TC002:14 - ****Starting TestAccountLoginPageTC002****
-2025-08-31 00:30:02 INFO  TestAccountLoginPage_TC002:16 - Clicking on My Account Link..
-2025-08-31 00:30:03 INFO  TestAccountLoginPage_TC002:18 - Clicking on Login Link..
-2025-08-31 00:30:09 INFO  TestAccountLoginPage_TC002:36 - ****End TestAccountLoginPageTC002****
-2025-08-31 00:30:12 INFO  TestAccountLogoutPage_TC003:15 - ****Starting TestAccountLogoutPage_TC003****
-2025-08-31 00:30:12 INFO  TestAccountLogoutPage_TC003:17 - Clicking on My Account Link..
-2025-08-31 00:30:12 INFO  TestAccountLogoutPage_TC003:19 - Clicking on Login Link..
-2025-08-31 00:30:15 INFO  TestAccountLogoutPage_TC003:47 - ****End TestAccountLogoutPage_TC003****
-2025-08-31 00:30:17 INFO  TestAccountRegistrationPage_TC001:14 - ****Starting TestAccountRegistrationPageTC001****
-2025-08-31 00:30:17 INFO  TestAccountRegistrationPage_TC001:17 - Clicking on My Account Link..
-2025-08-31 00:30:17 INFO  TestAccountRegistrationPage_TC001:19 - Clicking on Register Link..
-2025-08-31 00:30:18 INFO  TestAccountRegistrationPage_TC001:24 - Providing Customer Details..
-2025-08-31 00:30:20 INFO  TestAccountRegistrationPage_TC001:44 - Validating Expected Massage..
-2025-08-31 00:30:20 INFO  TestAccountRegistrationPage_TC001:48 - ****Ending TestAccountRegistrationPageTC001****
-2025-08-31 00:30:22 INFO  TestAddToCartPage_TC005:14 - ****Starting TestAddToCartPage_TC005****
-2025-08-31 00:30:23 INFO  TestAddToCartPage_TC005:40 - ****End TestAddToCartPage_TC005****
-2025-08-31 00:30:25 INFO  TestSearchProduct_TC004:13 - ****Starting TestSearchProduct_TC004****
-2025-08-31 00:30:26 INFO  TestSearchProduct_TC004:28 - ****End TestSearchProduct_TC004****
-2025-08-31 00:52:45 INFO  TestAccountRegistrationPage_TC001:14 - ****Starting TestAccountRegistrationPageTC001****
-2025-08-31 00:52:45 INFO  TestAccountRegistrationPage_TC001:17 - Clicking on My Account Link..
-2025-08-31 00:52:46 INFO  TestAccountRegistrationPage_TC001:19 - Clicking on Register Link..
-2025-08-31 00:52:47 INFO  TestAccountRegistrationPage_TC001:24 - Providing Customer Details..
-2025-08-31 00:52:49 INFO  TestAccountRegistrationPage_TC001:44 - Validating Expected Massage..
-2025-08-31 00:52:49 INFO  TestAccountRegistrationPage_TC001:48 - ****Ending TestAccountRegistrationPageTC001****
-2025-08-31 00:52:49 INFO  TestAccountRegistrationPage_TC001:69 - verifyAccountRegistration executed successfully
-2025-08-31 00:52:52 INFO  TestAccountLoginPage_TC002:14 - ****Starting TestAccountLoginPageTC002****
-2025-08-31 00:52:52 INFO  TestAccountLoginPage_TC002:16 - Clicking on My Account Link..
-2025-08-31 00:52:53 INFO  TestAccountLoginPage_TC002:18 - Clicking on Login Link..
-2025-08-31 00:52:55 INFO  TestAccountLoginPage_TC002:36 - ****End TestAccountLoginPageTC002****
-2025-08-31 00:52:55 INFO  TestAccountLoginPage_TC002:69 - verifyLogin executed successfully
-2025-08-31 00:52:58 INFO  TestAccountLogoutPage_TC003:15 - ****Starting TestAccountLogoutPage_TC003****
-2025-08-31 00:52:58 INFO  TestAccountLogoutPage_TC003:17 - Clicking on My Account Link..
-2025-08-31 00:52:59 INFO  TestAccountLogoutPage_TC003:19 - Clicking on Login Link..
-2025-08-31 00:53:02 INFO  TestAccountLogoutPage_TC003:47 - ****End TestAccountLogoutPage_TC003****
-2025-08-31 00:53:02 INFO  TestAccountLogoutPage_TC003:69 - verifyLogout executed successfully
-2025-08-31 00:53:05 INFO  TestSearchProduct_TC004:13 - ****Starting TestSearchProduct_TC004****
-2025-08-31 00:53:06 INFO  TestSearchProduct_TC004:28 - ****End TestSearchProduct_TC004****
-2025-08-31 00:53:06 INFO  TestSearchProduct_TC004:69 - verifySearch executed successfully
-2025-08-31 00:53:09 INFO  TestAddToCartPage_TC005:14 - ****Starting TestAddToCartPage_TC005****
-2025-08-31 00:53:11 INFO  TestAddToCartPage_TC005:40 - ****End TestAddToCartPage_TC005****
-2025-08-31 00:53:11 INFO  TestAddToCartPage_TC005:69 - verifyAddToCart executed successfully
-2025-08-31 00:53:16 INFO  DDTestAccountLoginPage_TC006:15 - ****Starting DDTestAccountLoginPage_TC006****
-2025-08-31 00:53:16 INFO  DDTestAccountLoginPage_TC006:19 - Clicking on My Account Link..
-2025-08-31 00:53:17 INFO  DDTestAccountLoginPage_TC006:21 - Clicking on Login Link..
-2025-08-31 00:53:20 INFO  DDTestAccountLoginPage_TC006:65 - End DDTestAccountLoginPage_TC006
-2025-08-31 00:53:20 INFO  DDTestAccountLoginPage_TC006:69 - verifyDDTestLoginPage executed successfully
-2025-08-31 00:53:20 INFO  DDTestAccountLoginPage_TC006:15 - ****Starting DDTestAccountLoginPage_TC006****
-2025-08-31 00:53:20 INFO  DDTestAccountLoginPage_TC006:19 - Clicking on My Account Link..
-2025-08-31 00:53:20 INFO  DDTestAccountLoginPage_TC006:21 - Clicking on Login Link..
-2025-08-31 00:53:22 INFO  DDTestAccountLoginPage_TC006:65 - End DDTestAccountLoginPage_TC006
-2025-08-31 00:53:22 INFO  DDTestAccountLoginPage_TC006:69 - verifyDDTestLoginPage executed successfully
-2025-08-31 00:53:22 INFO  DDTestAccountLoginPage_TC006:15 - ****Starting DDTestAccountLoginPage_TC006****
-2025-08-31 00:53:22 INFO  DDTestAccountLoginPage_TC006:19 - Clicking on My Account Link..
-2025-08-31 00:53:23 INFO  DDTestAccountLoginPage_TC006:21 - Clicking on Login Link..
-2025-08-31 00:53:55 INFO  DDTestAccountLoginPage_TC006:65 - End DDTestAccountLoginPage_TC006
-2025-08-31 00:53:55 INFO  DDTestAccountLoginPage_TC006:69 - verifyDDTestLoginPage executed successfully
-2025-08-31 00:53:55 INFO  DDTestAccountLoginPage_TC006:15 - ****Starting DDTestAccountLoginPage_TC006****
-2025-08-31 00:53:55 INFO  DDTestAccountLoginPage_TC006:19 - Clicking on My Account Link..
-2025-08-31 00:53:55 INFO  DDTestAccountLoginPage_TC006:21 - Clicking on Login Link..
-2025-08-31 00:54:26 INFO  DDTestAccountLoginPage_TC006:65 - End DDTestAccountLoginPage_TC006
-2025-08-31 00:54:26 INFO  DDTestAccountLoginPage_TC006:69 - verifyDDTestLoginPage executed successfully
-2025-08-31 00:54:26 INFO  DDTestAccountLoginPage_TC006:15 - ****Starting DDTestAccountLoginPage_TC006****
-2025-08-31 00:54:26 INFO  DDTestAccountLoginPage_TC006:19 - Clicking on My Account Link..
-2025-08-31 00:54:27 INFO  DDTestAccountLoginPage_TC006:21 - Clicking on Login Link..
-2025-08-31 00:54:29 INFO  DDTestAccountLoginPage_TC006:65 - End DDTestAccountLoginPage_TC006
-2025-08-31 00:54:29 INFO  DDTestAccountLoginPage_TC006:69 - verifyDDTestLoginPage executed successfully
-2025-08-31 00:54:29 INFO  DDTestAccountLoginPage_TC006:15 - ****Starting DDTestAccountLoginPage_TC006****
-2025-08-31 00:54:29 INFO  DDTestAccountLoginPage_TC006:19 - Clicking on My Account Link..
-2025-08-31 00:54:29 INFO  DDTestAccountLoginPage_TC006:21 - Clicking on Login Link..
-2025-08-31 00:55:00 INFO  DDTestAccountLoginPage_TC006:65 - End DDTestAccountLoginPage_TC006
-2025-08-31 00:55:00 INFO  DDTestAccountLoginPage_TC006:69 - verifyDDTestLoginPage executed successfully
-2025-08-31 16:33:51 INFO  TestAccountRegistrationPage_TC001:14 - ****Starting TestAccountRegistrationPageTC001****
-2025-08-31 16:33:51 INFO  TestAccountRegistrationPage_TC001:17 - Clicking on My Account Link..
-2025-08-31 16:33:52 INFO  TestAccountRegistrationPage_TC001:19 - Clicking on Register Link..
-2025-08-31 16:33:53 INFO  TestAccountRegistrationPage_TC001:24 - Providing Customer Details..
-2025-08-31 16:33:55 INFO  TestAccountRegistrationPage_TC001:44 - Validating Expected Massage..
-2025-08-31 16:33:55 INFO  TestAccountRegistrationPage_TC001:48 - ****Ending TestAccountRegistrationPageTC001****
-2025-08-31 16:33:55 INFO  TestAccountRegistrationPage_TC001:69 - verifyAccountRegistration executed successfully
-2025-08-31 16:33:58 INFO  TestAccountLoginPage_TC002:14 - ****Starting TestAccountLoginPageTC002****
-2025-08-31 16:33:58 INFO  TestAccountLoginPage_TC002:16 - Clicking on My Account Link..
-2025-08-31 16:33:59 INFO  TestAccountLoginPage_TC002:18 - Clicking on Login Link..
-2025-08-31 16:34:00 INFO  TestAccountLoginPage_TC002:36 - ****End TestAccountLoginPageTC002****
-2025-08-31 16:34:00 INFO  TestAccountLoginPage_TC002:69 - verifyLogin executed successfully
-2025-08-31 16:34:02 INFO  TestAccountLogoutPage_TC003:15 - ****Starting TestAccountLogoutPage_TC003****
-2025-08-31 16:34:02 INFO  TestAccountLogoutPage_TC003:17 - Clicking on My Account Link..
-2025-08-31 16:34:03 INFO  TestAccountLogoutPage_TC003:19 - Clicking on Login Link..
-2025-08-31 16:34:06 INFO  TestAccountLogoutPage_TC003:47 - ****End TestAccountLogoutPage_TC003****
-2025-08-31 16:34:06 INFO  TestAccountLogoutPage_TC003:69 - verifyLogout executed successfully
-2025-08-31 16:34:08 INFO  TestSearchProduct_TC004:13 - ****Starting TestSearchProduct_TC004****
-2025-08-31 16:34:09 INFO  TestSearchProduct_TC004:28 - ****End TestSearchProduct_TC004****
-2025-08-31 16:34:09 INFO  TestSearchProduct_TC004:69 - verifySearch executed successfully
-2025-08-31 16:34:11 INFO  TestAddToCartPage_TC005:14 - ****Starting TestAddToCartPage_TC005****
-2025-08-31 16:34:13 INFO  TestAddToCartPage_TC005:40 - ****End TestAddToCartPage_TC005****
-2025-08-31 16:34:13 INFO  TestAddToCartPage_TC005:69 - verifyAddToCart executed successfully
-2025-08-31 16:34:17 INFO  DDTestAccountLoginPage_TC006:15 - ****Starting DDTestAccountLoginPage_TC006****
-2025-08-31 16:34:17 INFO  DDTestAccountLoginPage_TC006:19 - Clicking on My Account Link..
-2025-08-31 16:34:17 INFO  DDTestAccountLoginPage_TC006:21 - Clicking on Login Link..
-2025-08-31 16:34:19 INFO  DDTestAccountLoginPage_TC006:65 - End DDTestAccountLoginPage_TC006
-2025-08-31 16:34:19 INFO  DDTestAccountLoginPage_TC006:69 - verifyDDTestLoginPage executed successfully
-2025-08-31 16:34:19 INFO  DDTestAccountLoginPage_TC006:15 - ****Starting DDTestAccountLoginPage_TC006****
-2025-08-31 16:34:19 INFO  DDTestAccountLoginPage_TC006:19 - Clicking on My Account Link..
-2025-08-31 16:34:19 INFO  DDTestAccountLoginPage_TC006:21 - Clicking on Login Link..
-2025-08-31 16:34:21 INFO  DDTestAccountLoginPage_TC006:65 - End DDTestAccountLoginPage_TC006
-2025-08-31 16:34:21 INFO  DDTestAccountLoginPage_TC006:69 - verifyDDTestLoginPage executed successfully
-2025-08-31 16:34:21 INFO  DDTestAccountLoginPage_TC006:15 - ****Starting DDTestAccountLoginPage_TC006****
-2025-08-31 16:34:21 INFO  DDTestAccountLoginPage_TC006:19 - Clicking on My Account Link..
-2025-08-31 16:34:21 INFO  DDTestAccountLoginPage_TC006:21 - Clicking on Login Link..
-2025-08-31 16:34:52 INFO  DDTestAccountLoginPage_TC006:65 - End DDTestAccountLoginPage_TC006
-2025-08-31 16:34:52 INFO  DDTestAccountLoginPage_TC006:69 - verifyDDTestLoginPage executed successfully
-2025-08-31 16:34:52 INFO  DDTestAccountLoginPage_TC006:15 - ****Starting DDTestAccountLoginPage_TC006****
-2025-08-31 16:34:52 INFO  DDTestAccountLoginPage_TC006:19 - Clicking on My Account Link..
-2025-08-31 16:34:52 INFO  DDTestAccountLoginPage_TC006:21 - Clicking on Login Link..
-2025-08-31 16:35:24 INFO  DDTestAccountLoginPage_TC006:65 - End DDTestAccountLoginPage_TC006
-2025-08-31 16:35:24 INFO  DDTestAccountLoginPage_TC006:69 - verifyDDTestLoginPage executed successfully
-2025-08-31 16:35:24 INFO  DDTestAccountLoginPage_TC006:15 - ****Starting DDTestAccountLoginPage_TC006****
-2025-08-31 16:35:24 INFO  DDTestAccountLoginPage_TC006:19 - Clicking on My Account Link..
-2025-08-31 16:35:24 INFO  DDTestAccountLoginPage_TC006:21 - Clicking on Login Link..
-2025-08-31 16:35:26 INFO  DDTestAccountLoginPage_TC006:65 - End DDTestAccountLoginPage_TC006
-2025-08-31 16:35:26 INFO  DDTestAccountLoginPage_TC006:69 - verifyDDTestLoginPage executed successfully
-2025-08-31 16:35:26 INFO  DDTestAccountLoginPage_TC006:15 - ****Starting DDTestAccountLoginPage_TC006****
-2025-08-31 16:35:26 INFO  DDTestAccountLoginPage_TC006:19 - Clicking on My Account Link..
-2025-08-31 16:35:26 INFO  DDTestAccountLoginPage_TC006:21 - Clicking on Login Link..
-2025-08-31 16:35:57 INFO  DDTestAccountLoginPage_TC006:65 - End DDTestAccountLoginPage_TC006
-2025-08-31 16:35:57 INFO  DDTestAccountLoginPage_TC006:69 - verifyDDTestLoginPage executed successfully
-2025-08-31 16:36:49 INFO  TestAccountRegistrationPage_TC001:14 - ****Starting TestAccountRegistrationPageTC001****
-2025-08-31 16:36:49 INFO  TestAccountRegistrationPage_TC001:17 - Clicking on My Account Link..
-2025-08-31 16:36:50 INFO  TestAccountRegistrationPage_TC001:19 - Clicking on Register Link..
-2025-08-31 16:36:51 INFO  TestAccountRegistrationPage_TC001:24 - Providing Customer Details..
-2025-08-31 16:36:53 INFO  TestAccountRegistrationPage_TC001:44 - Validating Expected Massage..
-2025-08-31 16:36:53 INFO  TestAccountRegistrationPage_TC001:48 - ****Ending TestAccountRegistrationPageTC001****
-2025-08-31 16:36:53 INFO  TestAccountRegistrationPage_TC001:69 - verifyAccountRegistration executed successfully
-2025-08-31 16:36:57 INFO  TestAccountLoginPage_TC002:14 - ****Starting TestAccountLoginPageTC002****
-2025-08-31 16:36:57 INFO  TestAccountLoginPage_TC002:16 - Clicking on My Account Link..
-2025-08-31 16:36:58 INFO  TestAccountLoginPage_TC002:18 - Clicking on Login Link..
-2025-08-31 16:37:00 INFO  TestAccountLoginPage_TC002:36 - ****End TestAccountLoginPageTC002****
-2025-08-31 16:37:00 INFO  TestAccountLoginPage_TC002:69 - verifyLogin executed successfully
-2025-08-31 16:37:03 INFO  TestAccountLogoutPage_TC003:15 - ****Starting TestAccountLogoutPage_TC003****
-2025-08-31 16:37:03 INFO  TestAccountLogoutPage_TC003:17 - Clicking on My Account Link..
-2025-08-31 16:37:04 INFO  TestAccountLogoutPage_TC003:19 - Clicking on Login Link..
-2025-08-31 16:37:08 INFO  TestAccountLogoutPage_TC003:47 - ****End TestAccountLogoutPage_TC003****
-2025-08-31 16:37:08 INFO  TestAccountLogoutPage_TC003:69 - verifyLogout executed successfully
-2025-08-31 16:37:11 INFO  TestSearchProduct_TC004:13 - ****Starting TestSearchProduct_TC004****
-2025-08-31 16:37:12 INFO  TestSearchProduct_TC004:28 - ****End TestSearchProduct_TC004****
-2025-08-31 16:37:12 INFO  TestSearchProduct_TC004:69 - verifySearch executed successfully
-2025-08-31 16:37:15 INFO  TestAddToCartPage_TC005:14 - ****Starting TestAddToCartPage_TC005****
-2025-08-31 16:37:17 INFO  TestAddToCartPage_TC005:40 - ****End TestAddToCartPage_TC005****
-2025-08-31 16:37:17 INFO  TestAddToCartPage_TC005:69 - verifyAddToCart executed successfully
-2025-08-31 16:37:23 INFO  DDTestAccountLoginPage_TC006:15 - ****Starting DDTestAccountLoginPage_TC006****
-2025-08-31 16:37:23 INFO  DDTestAccountLoginPage_TC006:19 - Clicking on My Account Link..
-2025-08-31 16:37:23 INFO  DDTestAccountLoginPage_TC006:21 - Clicking on Login Link..
-2025-08-31 16:37:26 INFO  DDTestAccountLoginPage_TC006:65 - End DDTestAccountLoginPage_TC006
-2025-08-31 16:37:26 INFO  DDTestAccountLoginPage_TC006:69 - verifyDDTestLoginPage executed successfully
-2025-08-31 16:37:26 INFO  DDTestAccountLoginPage_TC006:15 - ****Starting DDTestAccountLoginPage_TC006****
-2025-08-31 16:37:26 INFO  DDTestAccountLoginPage_TC006:19 - Clicking on My Account Link..
-2025-08-31 16:37:26 INFO  DDTestAccountLoginPage_TC006:21 - Clicking on Login Link..
-2025-08-31 16:37:29 INFO  DDTestAccountLoginPage_TC006:65 - End DDTestAccountLoginPage_TC006
-2025-08-31 16:37:29 INFO  DDTestAccountLoginPage_TC006:69 - verifyDDTestLoginPage executed successfully
-2025-08-31 16:37:29 INFO  DDTestAccountLoginPage_TC006:15 - ****Starting DDTestAccountLoginPage_TC006****
-2025-08-31 16:37:29 INFO  DDTestAccountLoginPage_TC006:19 - Clicking on My Account Link..
-2025-08-31 16:37:29 INFO  DDTestAccountLoginPage_TC006:21 - Clicking on Login Link..
-2025-08-31 16:38:01 INFO  DDTestAccountLoginPage_TC006:65 - End DDTestAccountLoginPage_TC006
-2025-08-31 16:38:01 INFO  DDTestAccountLoginPage_TC006:69 - verifyDDTestLoginPage executed successfully
-2025-08-31 16:38:01 INFO  DDTestAccountLoginPage_TC006:15 - ****Starting DDTestAccountLoginPage_TC006****
-2025-08-31 16:38:01 INFO  DDTestAccountLoginPage_TC006:19 - Clicking on My Account Link..
-2025-08-31 16:38:01 INFO  DDTestAccountLoginPage_TC006:21 - Clicking on Login Link..
-2025-08-31 16:38:33 INFO  DDTestAccountLoginPage_TC006:65 - End DDTestAccountLoginPage_TC006
-2025-08-31 16:38:33 INFO  DDTestAccountLoginPage_TC006:69 - verifyDDTestLoginPage executed successfully
-2025-08-31 16:38:33 INFO  DDTestAccountLoginPage_TC006:15 - ****Starting DDTestAccountLoginPage_TC006****
-2025-08-31 16:38:33 INFO  DDTestAccountLoginPage_TC006:19 - Clicking on My Account Link..
-2025-08-31 16:38:33 INFO  DDTestAccountLoginPage_TC006:21 - Clicking on Login Link..
-2025-08-31 16:38:36 INFO  DDTestAccountLoginPage_TC006:65 - End DDTestAccountLoginPage_TC006
-2025-08-31 16:38:36 INFO  DDTestAccountLoginPage_TC006:69 - verifyDDTestLoginPage executed successfully
-2025-08-31 16:38:36 INFO  DDTestAccountLoginPage_TC006:15 - ****Starting DDTestAccountLoginPage_TC006****
-2025-08-31 16:38:36 INFO  DDTestAccountLoginPage_TC006:19 - Clicking on My Account Link..
-2025-08-31 16:38:36 INFO  DDTestAccountLoginPage_TC006:21 - Clicking on Login Link..
-2025-08-31 16:39:08 INFO  DDTestAccountLoginPage_TC006:65 - End DDTestAccountLoginPage_TC006
-2025-08-31 16:39:08 INFO  DDTestAccountLoginPage_TC006:69 - verifyDDTestLoginPage executed successfully
-2025-08-31 20:17:51 INFO  TestAccountRegistrationPage_TC001:14 - ****Starting TestAccountRegistrationPageTC001****
-2025-08-31 20:17:51 INFO  TestAccountRegistrationPage_TC001:17 - Clicking on My Account Link..
-2025-08-31 20:17:52 INFO  TestAccountRegistrationPage_TC001:19 - Clicking on Register Link..
-2025-08-31 20:17:52 INFO  TestAccountRegistrationPage_TC001:24 - Providing Customer Details..
-2025-08-31 20:18:23 INFO  TestAccountRegistrationPage_TC001:44 - Validating Expected Massage..
-2025-08-31 20:18:34 ERROR TestAccountRegistrationPage_TC001:82 - verifyAccountRegistration failed
-java.lang.AssertionError: Registration failed: Confirmation message mismatch. expected [Your Account Has Been Created!] but found [no such window: target window already closed
-from unknown error: web view not found
-  (Session info: chrome=139.0.7258.155)
-Build info: version: '4.35.0', revision: '1c58e5028b'
-System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [241c14a0780966fb827bf32ca13d9ac5, findElement {using=xpath, value=//h1[normalize-space()='Your Account Has Been Created!']}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 139.0.7258.154 (9e0d6b2b47f..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56299}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56299/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 241c14a0780966fb827bf32ca13d9ac5]
-	at org.testng.Assert.fail(Assert.java:111)
-	at org.testng.Assert.failNotEquals(Assert.java:1590)
-	at org.testng.Assert.assertEqualsImpl(Assert.java:150)
-	at org.testng.Assert.assertEquals(Assert.java:132)
-	at org.testng.Assert.assertEquals(Assert.java:656)
-	at testCases.TestAccountRegistrationPage_TC001.verifyAccountRegistration(TestAccountRegistrationPage_TC001.java:46)
-	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
-	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
-	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
-	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
-	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
-	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
-	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
-	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
-	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
-	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
-	at org.testng.TestRunner.privateRun(TestRunner.java:741)
-	at org.testng.TestRunner.run(TestRunner.java:616)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
-	at org.testng.TestNG.runSuites(TestNG.java:1112)
-	at org.testng.TestNG.run(TestNG.java:1079)
-	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
-2025-08-31 20:18:34 ERROR TestAccountRegistrationPage_TC001:82 - verifyAccountRegistration failed
-org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
-from unknown error: web view not found
-  (Session info: chrome=139.0.7258.155)
-Build info: version: '4.35.0', revision: '1c58e5028b'
-System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [241c14a0780966fb827bf32ca13d9ac5, screenshot {}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 139.0.7258.154 (9e0d6b2b47f..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56299}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56299/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 241c14a0780966fb827bf32ca13d9ac5
-	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
-	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
-	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
-	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
-	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
-	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:557)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:630)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:634)
-	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:346)
-	at testBase.BaseClass.captureScreen(BaseClass.java:137)
-	at utilities.ExtentReportManager.onTestFailure(ExtentReportManager.java:86)
-	at org.testng.internal.TestListenerHelper.runTestListeners(TestListenerHelper.java:115)
-	at org.testng.internal.invokers.TestInvoker.runTestResultListener(TestInvoker.java:285)
-	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:777)
-	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
-	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
-	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
-	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
-	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
-	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
-	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
-	at org.testng.TestRunner.privateRun(TestRunner.java:741)
-	at org.testng.TestRunner.run(TestRunner.java:616)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
-	at org.testng.TestNG.runSuites(TestNG.java:1112)
-	at org.testng.TestNG.run(TestNG.java:1079)
-	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+2025-09-01 01:03:19 INFO  TestAccountRegistrationPage_TC001:14 - ****Starting TestAccountRegistrationPageTC001****
+2025-09-01 01:03:20 INFO  TestAccountRegistrationPage_TC001:17 - Clicking on My Account Link..
+2025-09-01 01:03:20 INFO  TestAccountRegistrationPage_TC001:19 - Clicking on Register Link..
+2025-09-01 01:03:21 INFO  TestAccountRegistrationPage_TC001:24 - Providing Customer Details..
+2025-09-01 01:03:22 INFO  TestAccountRegistrationPage_TC001:44 - Validating Expected Massage..
+2025-09-01 01:03:23 INFO  TestAccountRegistrationPage_TC001:48 - ****Ending TestAccountRegistrationPageTC001****
+2025-09-01 01:03:23 INFO  TestAccountRegistrationPage_TC001:69 - verifyAccountRegistration executed successfully
+2025-09-01 01:03:25 INFO  TestAccountLoginPage_TC002:14 - ****Starting TestAccountLoginPageTC002****
+2025-09-01 01:03:25 INFO  TestAccountLoginPage_TC002:16 - Clicking on My Account Link..
+2025-09-01 01:03:25 INFO  TestAccountLoginPage_TC002:18 - Clicking on Login Link..
+2025-09-01 01:03:27 INFO  TestAccountLoginPage_TC002:36 - ****End TestAccountLoginPageTC002****
+2025-09-01 01:03:27 INFO  TestAccountLoginPage_TC002:69 - verifyLogin executed successfully
+2025-09-01 01:03:29 INFO  TestAccountLogoutPage_TC003:15 - ****Starting TestAccountLogoutPage_TC003****
+2025-09-01 01:03:29 INFO  TestAccountLogoutPage_TC003:17 - Clicking on My Account Link..
+2025-09-01 01:03:30 INFO  TestAccountLogoutPage_TC003:19 - Clicking on Login Link..
+2025-09-01 01:03:32 INFO  TestAccountLogoutPage_TC003:47 - ****End TestAccountLogoutPage_TC003****
+2025-09-01 01:03:32 INFO  TestAccountLogoutPage_TC003:69 - verifyLogout executed successfully
+2025-09-01 01:03:34 INFO  TestSearchProduct_TC004:13 - ****Starting TestSearchProduct_TC004****
+2025-09-01 01:03:34 INFO  TestSearchProduct_TC004:28 - ****End TestSearchProduct_TC004****
+2025-09-01 01:03:34 INFO  TestSearchProduct_TC004:69 - verifySearch executed successfully
+2025-09-01 01:03:36 INFO  TestAddToCartPage_TC005:14 - ****Starting TestAddToCartPage_TC005****
+2025-09-01 01:03:38 INFO  TestAddToCartPage_TC005:40 - ****End TestAddToCartPage_TC005****
+2025-09-01 01:03:38 INFO  TestAddToCartPage_TC005:69 - verifyAddToCart executed successfully
+2025-09-01 01:03:41 INFO  DDTestAccountLoginPage_TC006:15 - ****Starting DDTestAccountLoginPage_TC006****
+2025-09-01 01:03:41 INFO  DDTestAccountLoginPage_TC006:19 - Clicking on My Account Link..
+2025-09-01 01:03:41 INFO  DDTestAccountLoginPage_TC006:21 - Clicking on Login Link..
+2025-09-01 01:03:43 INFO  DDTestAccountLoginPage_TC006:65 - End DDTestAccountLoginPage_TC006
+2025-09-01 01:03:43 INFO  DDTestAccountLoginPage_TC006:69 - verifyDDTestLoginPage executed successfully
+2025-09-01 01:03:43 INFO  DDTestAccountLoginPage_TC006:15 - ****Starting DDTestAccountLoginPage_TC006****
+2025-09-01 01:03:43 INFO  DDTestAccountLoginPage_TC006:19 - Clicking on My Account Link..
+2025-09-01 01:03:43 INFO  DDTestAccountLoginPage_TC006:21 - Clicking on Login Link..
+2025-09-01 01:03:46 INFO  DDTestAccountLoginPage_TC006:65 - End DDTestAccountLoginPage_TC006
+2025-09-01 01:03:46 INFO  DDTestAccountLoginPage_TC006:69 - verifyDDTestLoginPage executed successfully
+2025-09-01 01:03:46 INFO  DDTestAccountLoginPage_TC006:15 - ****Starting DDTestAccountLoginPage_TC006****
+2025-09-01 01:03:46 INFO  DDTestAccountLoginPage_TC006:19 - Clicking on My Account Link..
+2025-09-01 01:03:46 INFO  DDTestAccountLoginPage_TC006:21 - Clicking on Login Link..
+2025-09-01 01:04:17 INFO  DDTestAccountLoginPage_TC006:65 - End DDTestAccountLoginPage_TC006
+2025-09-01 01:04:17 INFO  DDTestAccountLoginPage_TC006:69 - verifyDDTestLoginPage executed successfully
+2025-09-01 01:04:17 INFO  DDTestAccountLoginPage_TC006:15 - ****Starting DDTestAccountLoginPage_TC006****
+2025-09-01 01:04:17 INFO  DDTestAccountLoginPage_TC006:19 - Clicking on My Account Link..
+2025-09-01 01:04:17 INFO  DDTestAccountLoginPage_TC006:21 - Clicking on Login Link..
+2025-09-01 01:04:48 INFO  DDTestAccountLoginPage_TC006:65 - End DDTestAccountLoginPage_TC006
+2025-09-01 01:04:48 INFO  DDTestAccountLoginPage_TC006:69 - verifyDDTestLoginPage executed successfully
+2025-09-01 01:04:48 INFO  DDTestAccountLoginPage_TC006:15 - ****Starting DDTestAccountLoginPage_TC006****
+2025-09-01 01:04:48 INFO  DDTestAccountLoginPage_TC006:19 - Clicking on My Account Link..
+2025-09-01 01:04:49 INFO  DDTestAccountLoginPage_TC006:21 - Clicking on Login Link..
+2025-09-01 01:04:50 INFO  DDTestAccountLoginPage_TC006:65 - End DDTestAccountLoginPage_TC006
+2025-09-01 01:04:50 INFO  DDTestAccountLoginPage_TC006:69 - verifyDDTestLoginPage executed successfully
+2025-09-01 01:04:50 INFO  DDTestAccountLoginPage_TC006:15 - ****Starting DDTestAccountLoginPage_TC006****
+2025-09-01 01:04:50 INFO  DDTestAccountLoginPage_TC006:19 - Clicking on My Account Link..
+2025-09-01 01:04:50 INFO  DDTestAccountLoginPage_TC006:21 - Clicking on Login Link..
+2025-09-01 01:05:21 INFO  DDTestAccountLoginPage_TC006:65 - End DDTestAccountLoginPage_TC006
+2025-09-01 01:05:21 INFO  DDTestAccountLoginPage_TC006:69 - verifyDDTestLoginPage executed successfully

@@ -103,7 +103,6 @@ mvn clean test -DsuiteXmlFile=master.xml
 * **TestAddToCartPage_TC005** → Validate Add to Cart Page
 * **DDTestAccountLoginPage_TC006** → Validate login with multiple data sets (Excel-driven)
 ## Future Enhancements
-* Integrate with **Allure Reports**
 * Add support for **API Testing**
 * Enable **Cloud Execution** (BrowserStack/SauceLabs)
 

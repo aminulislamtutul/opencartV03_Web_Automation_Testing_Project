@@ -82,7 +82,8 @@ mvn clean test -DsuiteXmlFile=docker-grid.xml
 
 ## Allure Reports
 - Allure Reports → `allure-report`
-<img width="957" height="416" alt="OpencartV03_allure" src="https://github.com/user-attachments/assets/ad71a2dc-3deb-451e-8694-f210a9cff3a7" />
+<img width="946" height="416" alt="OpencartV03_allure" src="https://github.com/user-attachments/assets/175427ad-a25d-49ba-8111-3e1d90f911ff" />
+
 
 ## CI/CD with Jenkins
 1. Install Jenkins & configure Maven + Git in **Global Tool Configuration**
